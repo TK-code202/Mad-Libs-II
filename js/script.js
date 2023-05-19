@@ -1,3 +1,4 @@
+//User Interface Logic
 $(document).ready(function() {
     $("#formOne").submit(function (event){
         const adjectiveInput = $("input#adjective").val();
