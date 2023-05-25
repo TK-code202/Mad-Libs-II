@@ -16,7 +16,7 @@
 ## Description
 
 
-_This is a webpage contains a mad-libs game. The webpage contains fields which is to be field by the user. The input is collected and put into the story. Unlike the previous one, this webpage makes uses of array for storing the input of the users and appending the input to the webpage._
+_This is a webpage containing a mad-libs game. The webpage contains fields which is to be field by the user. The input is collected and put into the story. Unlike the previous one, this webpage makes uses of array for storing the input of the users and appending the input to the webpage._
 
 ## Setup/Installation Requirements
 
