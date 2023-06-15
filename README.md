@@ -1,6 +1,6 @@
 # _Mad Libs (II)_
 
-#### _This website matches users with a character of a movie or tv-show._
+#### _Webpage for a mad-libs game._
 
 #### By _**Tofunmi Kusimo**_
 
